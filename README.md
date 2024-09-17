@@ -5,9 +5,12 @@
 -Git
 -Docker
 
-**Como Rodar**
-git clone https://github.com/jrfree6/desafiocartas.git
+###Instruções
 
+**Clonando o projeto**
+```sh
+git clone https://github.com/jrfree6/desafiocartas.git
+```
 **Gerar o Package**
 ```sh
 cd desafiocartas

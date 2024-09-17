@@ -6,7 +6,7 @@
 -Docker
 
 **Como Rodar**
-git clone ....
+git clone https://github.com/jrfree6/desafiocartas.git
 
 **Gerar o Package**
 ```sh

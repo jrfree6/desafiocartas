@@ -1,9 +1,12 @@
 # Bem Vindo ao Desafio das Cartas
 
 **Requisitos**
--Java 17
--Git
--Docker
+
+```sh
+ -Java 17
+ -Git
+ -Docker
+```
 
 ### Instruções
 

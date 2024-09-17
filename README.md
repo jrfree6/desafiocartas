@@ -34,4 +34,5 @@ http://localhost:8080/api/cartas/deal
 **H2 Database**
 
 Acessível apenas se rodar fora do container
+
 Configurado: jdbc:h2:mem:testdb
